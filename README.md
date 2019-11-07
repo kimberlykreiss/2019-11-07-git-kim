@@ -31,4 +31,16 @@ git add . vs git add --all
 git add . is everything in this folder and down 
 git add --all is everything in the repo 
 
-Some notes on merge conflicts
+## Branches 
+
+- `branch <branch-name>: create a new branch 
+- `checkout <branch-name>`: move to that branch 
+- `checkout -b <branch-name>`: create and move at the same time 
+- `branch -a`: see what branches we have 
+
+- `log --oneline --graph --decorate --all`: what is going on?
+
+
+
+
+
