@@ -41,6 +41,9 @@ git add --all is everything in the repo
 - `log --oneline --graph --decorate --all`: what is going on?
   - This is a diagram 
 
+- `branch -d`: delete a branch that was merged 
+`- `branch -D`: force delete a branch that was *not* merged 
+
 
 
 
