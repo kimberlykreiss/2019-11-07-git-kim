@@ -4,6 +4,18 @@
 - `status`: see what is going on in the repo 
 - `add`: put file(s) into staging area 
 - `commit`: commit files from staging area 
+- `diff`: see the changes that were made between different files. git diff --staged shows what's different after files are staged 
+- git diff HEAD~2 (show the differences between current and two commits ago) 
+- `checkout`: move your `HEAD` around 
+- `HEAD`: where you are currently looking at in history 
+- `log`: looking at all your previous messages 
+	- `log --oneline`: get a one line representation of history 
+
+# Remotes
+- `remote`: somewhere your git repo is stored (eg, Github)
+	`origin`: the default you give your remote
+- `push`: sending local changes to remote 
+- `pull`: receiving changes from remote 
 
 # Notes 
 
@@ -14,12 +26,3 @@ nano README.md
 git add . vs git add --all 
 git add . is everything in this folder and down 
 git add --all is everything in the repo 
-
-- `diff`: see the changes that were made between different files. git diff --staged shows what's different after files are staged 
-- git diff HEAD~2 (show the differences between current and two commits ago) 
-- `checkout`: move your `HEAD` around 
-- `HEAD`: where you are currently looking at in history 
-- `log`: looking at all your previous messages 
-	- `log --oneline`: get a one line representation of history 
-- `push`: sending local changes to remote 
-- `pull`: receiving changes from remote 
