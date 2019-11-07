@@ -44,6 +44,14 @@ git add --all is everything in the repo
 - `branch -d`: delete a branch that was merged 
 `- `branch -D`: force delete a branch that was *not* merged 
 
+## Updating history 
+`rebase <branch-name>`: incorporate changes in <branch-name>, 
+  e.g. `master` intro current branch 
+  - You perform this command on the feature branch, not on the master 
+  
+  
+  
+  
 
 
 
