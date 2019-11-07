@@ -11,3 +11,8 @@
 ls -al (list all hidden files in this folder) 
 nano README.md
 
+git add . vs git add --all 
+git add . is everything in this folder and down 
+git add --all is everything in the repo 
+
+
