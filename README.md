@@ -39,7 +39,7 @@ git add --all is everything in the repo
 - `branch -a`: see what branches we have 
 
 - `log --oneline --graph --decorate --all`: what is going on?
-
+  - This is a diagram 
 
 
 
