@@ -17,4 +17,7 @@ git add --all is everything in the repo
 
 - `diff`: see the changes that were made between different files. git diff --staged shows what's different after files are staged 
 - git diff HEAD~2 (show the differences between current and two commits ago) 
-
+- `checkout`: move your `HEAD` around 
+- `HEAD`: where you are currently looking at in history 
+- `log`: looking at all your previous messages 
+	- `log --oneline`: get a one line representation of history 
