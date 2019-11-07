@@ -21,3 +21,5 @@ git add --all is everything in the repo
 - `HEAD`: where you are currently looking at in history 
 - `log`: looking at all your previous messages 
 	- `log --oneline`: get a one line representation of history 
+- `push`: sending local changes to remote 
+- `pull`: receiving changes from remote 
