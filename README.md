@@ -41,6 +41,18 @@ git add --all is everything in the repo
 - `log --oneline --graph --decorate --all`: what is going on?
   - This is a diagram 
 
+- `branch -d`: delete a branch that was merged 
+`- `branch -D`: force delete a branch that was *not* merged 
+
+## Updating history 
+`rebase <branch-name>`: incorporate changes in <branch-name>, 
+  e.g. `master` intro current branch 
+  - You perform this command on the feature branch, not on the master 
+  
+## Exercise 
+- This is a change to my readme file. 
+  
+  
 
 
 
