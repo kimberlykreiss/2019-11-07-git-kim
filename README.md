@@ -16,4 +16,5 @@ git add . is everything in this folder and down
 git add --all is everything in the repo 
 
 - `diff`: see the changes that were made between different files. git diff --staged shows what's different after files are staged 
+- git diff HEAD~2 (show the differences between current and two commits ago) 
 
