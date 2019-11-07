@@ -1,4 +1,4 @@
-# Git Workshop DCR 2019 
+# Git workshop DCR 2019 
 
 - `init`: initialize folder as git repo
 - `status`: see what is going on in the repo 
@@ -26,3 +26,5 @@ nano README.md
 git add . vs git add --all 
 git add . is everything in this folder and down 
 git add --all is everything in the repo 
+
+Some notes on merge conflicts
