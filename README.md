@@ -49,7 +49,8 @@ git add --all is everything in the repo
   e.g. `master` intro current branch 
   - You perform this command on the feature branch, not on the master 
   
-  
+## Exercise 
+- This is a change to my readme file. 
   
   
 
